@@ -1,6 +1,6 @@
 # Percy Bysshe Shelley
 
-He pertained to the Second Generation of Romantic poets.
+He pertained to the [Second Generation](romanticism.md#second-generation) of Romantic poets.
 
 Goes to Eton College and Oxford University.
 
