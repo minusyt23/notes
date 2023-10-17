@@ -146,19 +146,23 @@ What happens when the Spring comes? The Zephyr (warm wind) blows, and the seeds 
 
 *The Wind moves through the sky.*
 
-The same thing happens in here. 
-
-What are the leaves of the sky? Clouds!
+The same thing happens in here. What are the leaves of the sky? Clouds!
 
 What happens when Wind tries to blow on the clouds? It rains! And rain is a **regenerative force**, something needed for life. 
 
-Clouds are the product of *tangled boughs of Heaven and Ocean*.
+> Note: the word "stream" projects us in the third part already, cause it could mean river.
+
+Clouds are the product of *tangled boughs of Heaven and Ocean*. This describes how clouds are made. Think about it; the steam that makes clouds comes from the Ocean and goes to Heaven, and Shelley imagines tentacles (*tangled boughs*) keeping the two together.
 
 > Note: Heaven here means sky.
 
-Look at how he says that the sky has a *blue surface*, describing it as if it was the ocean. Now, is the ocean colouring the sky or viceversa? It's the sky that changes colour of the sea! 
+Look at how he says that the sky has a *blue surface*, describing it as if it was the ocean. This is because there is a connection with the ocean (*tangled boughs*)! Now, is the ocean colouring the sky or viceversa? It's the sky that changes colour of the sea! 
 
-Maenads! Important. Find out what they are. Because the Clouds look like fierce Maenads.
+###### Maenads
+
+Maenads! Important. Find out what they are. Because the Clouds look like fierce Maenads. And *locks*, in the next verse, mean the nasty curls of the Maenad's hair.
+
+Since the clouds look just like a Maenad's hair, Shelley is right when he says it's a storm! To him, curly clouds mean an approaching storm.
 
 ###### Link between the parts
 
