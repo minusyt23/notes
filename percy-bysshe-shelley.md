@@ -81,9 +81,22 @@ It reflects on the current state of Britain and on the failure of the French rev
 
 Why did revolution fail? Besides the fact that it didn't go to England, and it was necessary, it failed because the Revolution transformed France into chaos, civil war, which no one wanted.
 
+> Digression: It is not said in this poem, but the revolution failed in England also because the nation was too worried about getting big and rich with the Industrial revolution and just becoming a super power. Spending money on a revolution seemed useless.
+>
+> Also, since money on revolution is useless, we can say the same for wars, except for three: 
+> + Crimea war, fought for the port.
+> + Boer war, fought in South Africa (against Dutchies) for the diamonds and gold.
+> + Opium war, a commercial war fought for opium (ofc).
+>
+> They were ez wins, so they had a big ego.
+
 He never backs down on the revolutionary ideals, but he acknowledges its failure.
 
 What does he do then? He starts preaching for a bloodless revolt! Something that is kind of impossible, you know. Bloodless seems like an oxymoron.
+
+> Digression #2: Only in 1914, in the beginning of WW1, England starts to revolt.
+>
+> And about wars, we cannot say the same for this one; this was not an ez win at all.
 
 ### Vindication of men's rights
 Something something
@@ -95,7 +108,7 @@ Mary's mother also wrote *Vindication of women's rights*.
 
 ### Ode to the West Wind
 
-:warning: Important! Study well. Always refer to the poem.
+:warning: Important! Study well. Always refer to the [poem](https://www.litcharts.com/poetry/percy-bysshe-shelley/ode-to-the-west-wind).
 
 This is an Ode. (of course sherlock)
 
@@ -122,7 +135,10 @@ The leaves! Oh, the leaves... They're needed to cover the seeds. But what kind o
 
 The leaves cover the seeds and keep them warm until spring comes around. After that, they will sprout.
 
-Duality of leaves: they can be interpreted both as leaves (from trees) or sheets of paper. The wind wants to take down the leaves off of trees, and similarly *I* want to spread this message around. That's why *I* am the Wind.
+###### Duality of leaves
+They can be interpreted both as leaves (from trees) or sheets of paper. The wind wants to take down the leaves off of trees, and similarly *I* want to spread this message around. That's why *I* am the Wind.
+
+> Note: the sheets of paper are his words, creating a synecdoche.
 
 What happens when the Spring comes? The Zephyr (warm wind) blows, and the seeds sprout. And what does the transition from winter to spring mean? It is a message of hope.
 
@@ -165,11 +181,37 @@ The last verse of this stanza states "Black rain, fire and hail".
 
 Fourth and Fifth part is the poet's will to become wind.
 
-Babies don't have limits. 
+In the first three verses he cites the first three parts.
 
-vagabondaggi di cielo
+###### Youth
 
-Thorns of life = unable to flee = adulthood
+The poet here really wants to emphasize how young people have it easy for this kinda thing.
+
++ "If even I were as in my boyhood" → Babies don't have limits, adults do. Romantic thought!
++ Thorns of life = unable to flee = *Adulthood*.
++ Heavy weight of hours = a ton of hours lived = *Adulthood*.
+
+###### Lyre
+
+He wants to become a lyre, an instrument.
+
+Homer reference! So cool.
+
+However, he mentions that the forest sings too. 
+
+Nottingham forest reference! Cooler. :sunglasses:
+
+###### Real Duality of leaves
+
+Here is expressed the duality of leaves [mentioned before](#duality-of-leaves).
+
+The "Unawakened Earth" is really England.
+
+###### Spring
+
+The last verse is optimistic: if Winter comes, can Spring be far behind?
+
+If 
 
 ### Ozymandias
 
@@ -192,6 +234,52 @@ Why is he the modern Prometheus? Frankenstein made life from the dead bodies of 
 Poetry is absolutely necessary. He has always Radical positions.
 
 ### England in 1819
+
+:warning: Also important. Always refer to the [poem](https://www.litcharts.com/poetry/percy-bysshe-shelley/england-in-1819).
+
+Unlike Wordsworth, he reacts (and writes) immediately. He doesn't wait 6 years in tranquility.
+
+###### Structure
+
+The poem is made of a long list of subjects, followed by the last two verses that give them a meaning.
+
+###### Kings and Princes
+
+Shelley says here that the king are old, mad, blind, despised and dying.
+He is talking about King George III.
+
+This doesn't imply that the next kings (current princes) are any better: Both King George IV and George V are not well-received either.
+
+> Note: George IV squanders money just because he can. That's why he's a bad king.
+
+###### Rulers
+
+###### People
+
+*"A people starved and stabbed in the untilled field"*: exactly what happened in Peterloo Massacre.
+
+###### Army
+
+Prey to those who governs it, Liberticide to the people. The people were doing nothing bad (listening to a speaker), but since the law said public reunions are prohibited, they started to shoot.
+
+An army both prey and liberticide makes a double edged sword, and that kinda sword is very dangerous both for those who control it and for those who want to make a coup d'etat, y'know.
+
+###### Religion
+
+Why is it Christless and Godless? It could've just been Godless, but Shelley wanted to reinforce the concept.
+
+*"a sealed book"*: no one reads the Bible anymore.
+
+###### Senate
+
+Senate: Latin word.
+
+*"Time's worst statute unrepealed"*: Shelley is talking about the law which prohibits Catholic people from having public positions. This is not fair! Still present law, because no English monarch can be Catholic, only Protestant.
+
+Public office means everything that's got to do with the state, so even teaching is not an option.
+
+###### Finally, graves
+
 
 #### Other
 
