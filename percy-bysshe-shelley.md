@@ -135,12 +135,39 @@ The leaves! Oh, the leaves... They're needed to cover the seeds. But what kind o
 
 The leaves cover the seeds and keep them warm until spring comes around. After that, they will sprout.
 
+There are four colours of leaves for Shelley:
++ Yellow
++ Black
++ Pale
++ Hectic Red (tubercolosis blood)
+
+These are also the colors found on people with the plague. Strange comparison, isn't it?
+
 ###### Duality of leaves
 They can be interpreted both as leaves (from trees) or sheets of paper. The wind wants to take down the leaves off of trees, and similarly *I* want to spread this message around. That's why *I* am the Wind.
 
 > Note: the sheets of paper are his words, creating a synecdoche.
 
 What happens when the Spring comes? The Zephyr (warm wind) blows, and the seeds sprout. And what does the transition from winter to spring mean? It is a message of hope.
+
+###### The seeds
+
+Shelley mentions *"the winged seeds"*. He is talking about maple seeds.
+
+Ok, so, what happens is:
++ both leaves and seeds are blown away by the wind.
++ the leaves cover the seeds to produce a warm environment.
++ the seeds sprout when Spring comes, with the Zephyr.
+
+Finally, we can say that yes, the Wind is a destroyer and a preserver, because:
++ it ruins Nature by making leaves fall off trees and all of that
++ it helps rebuild Nature by warming up the environment.
+
+###### References and figures of speech
+
+*"enchanter"* here seems like a Coleridge reference. It's a magical word.
+
+Metaphor
 
 #### Second
 
@@ -177,7 +204,15 @@ The last verse of this stanza states "Black rain, fire and hail".
 
 > Note: he sees the Mediterranean sea, which is usually calm, but not in autumn.
 
+###### Mediterranean
 
+city, didn't really understand things.
+
+###### Atlantic
+
+The Atlantic "wakes" the Mediterranean "up" in Autumn, due to its currents entering our sheltered sea.
+
+something something please help
 
 #### Fourth and Fifth
 
@@ -191,7 +226,7 @@ In the first three verses he cites the first three parts.
 
 The poet here really wants to emphasize how young people have it easy for this kinda thing.
 
-+ "If even I were as in my boyhood" → Babies don't have limits, adults do. Romantic thought!
++ "If even I were as in my boyhood" → Babies don't have limits, adults do, following all these [social conventions](william-wordsworth.md#childhood). Romantic thought! 
 + Thorns of life = unable to flee = *Adulthood*.
 + Heavy weight of hours = a ton of hours lived = *Adulthood*.
 
