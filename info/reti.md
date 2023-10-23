@@ -1,99 +1,68 @@
-# Network
-Ci sono 4 tipi: LAN, MAN, WAN, GAN
+# Le reti
 
-+ Local Area Network
-+ Metropolitan Area Network
-+ Wide Area Network
-+ Global Area Network
-
-Cosa fanno i satelliti Starlink?
-
-Internet satellitare
-
-Ma noi usiamo la fibra ottica, che sta nelle dorsali oceaniche.
-
-Ora facciamo un po' di storia.
+File riassunto di partenza per gli argomenti affrontati riguardanti le reti.
 
 ## Storia delle reti
 
-L'Italia è il primo paese in Europa per infrastrutture nuove.
-Ferrovia, Telefono per tutta la nazione, Teleselezione... sempre il primo.
+## Protocolli di comunicazione
 
-Nel 1991 è nato Internet ma è stato sdoganato nel 1993. è arrivato in Italia nel 1995.
+### Modalità di connessione
 
-Ok, bello Internet, come lo mettiamo? Abbiamo già un'infrastruttura, che è quella dei telefoni. Il cavo si chiama *doppino telefonico*.
+Le *modalità di comunicazione* tra entità si dividono in due grandi classi:
++ modalità a **connessione** (connection-oriented).
++ modalità **senza** connessione (connectionless).
 
-In breve, o si chiamava o si usava Internet.
+Nella mod. a connessione, prima della trasmissione di informazioni si deve stabilire una *connessione* (quindi una "via") tra il mittente e il destinatario per comunicare.
 
-Poi è stata introdotta l'ADSL.
+> Esempio: Telefonata.
 
-Però siamo stati stupidi, perchè negli altri paesi già mettevano la fibra ottica nel 2000.
+Nella mod. senza connessione, il mittente manda un messaggio autonomo, quindi senza creare una connessione preventivamente.
+
+> Esempio: Servizio postale.
+
+### Modalità di utilizzo del canale
+
+La modalità di utilizzo del canale è il modo in cui i dati passano attraverso il canale di comunicazione.
+
+La trasmissione dei dati, a seconda della modalità di utilizzo del canale di comunicazione, può essere classificata in tre modi.
++ Simplex
++ Half-Duplex
++ Full-Duplex
+
+Nella modalità *simplex*, il canale di comunicazione è 
+a senso unico. Il mittente invia al destinatario, ma i ruoli non si invertono mai.
+
+> Esempio: Radio, Televisione.
+
+Nella modalità *half-duplex*, il canale di comunicazione permette l'inversione di ruoli, ma in tempi scanditi. O meglio, il mittente non può essere allo stesso tempo destinatario. Prima deve finire di inviare il suo messaggio.
+
+> Esempio: Walkie-talkie.
+
+Nella modalità *full-duplex*, il canale di comunicazione permette la libera trasmissione di dati nei due sensi, *contemporaneamente*. Viene attraverso due canali di trasmissione, per i due sensi.
+
+> Esempio: Telefono.
+
+### Multiplazione
+
+La multiplazione (o multiplexing) è l'implementazione del concetto di condivisione di risorse trasmissive.
+
+Nelle reti, si pone il problema che fra due elaboratori c'è bisogno di una connessione fisica capace di trasmettere dati da parte di più applicazioni. La multiplazione risolve il problema.
+
+> Il canale afflitto da multiplazione si chiama canale **multiplato**.
+
+Ci sono due tipi di multiplazione:
++ multiplazione statica.
++ multiplazione dinamica.
+
+Nella multiplazione statica, la suddivisione del canale avviene a priori in parti fisse (e anche fisiche), senza aspettarsi che le richieste da parte delle applicazioni cambino, un po' come suggerisce il nome.
+
+> Esempio: Trasmissioni via satellite o televisive.
+
+Nella multiplazione dinamica, la suddivisione del canale avviene in base alle richieste delle applicazioni, quindi in tempo reale, e a seconda delle condizioni di traffico.
+
+Il canale viene suddiviso in parti logiche, che vengono temporaneamente assegnate a una coppia di host, e queste parti vengono distrutte alla fine della trasmissione.
 
 
+## Cavi di rame
 
 ## Fibra ottica
-
-Come funziona?
-c'è un filo di fibra ottica che fa passare la luce e la fa rimbalzare al suo interno, se l'angolo rispetto all'asse del filo è entro il **cono di accettazione**. se è fuori, si parla di **angolo critico**.
-
-Ci sono alcuni tipi di problemi, almeno sette.
-
-## How to
-
-+ Simplex
-+ Half-duplex
-+ Full-duplex
-
-#### Multiplazione
-
-
-La multiplazione può essere **statica** o **dinamica**.
-Nella statica, ci sono tanti cavi fissi quanti sono necessari. So già a priori quanti canali devo aprire.
-
-La dinamica fa tutto dinamicamente. Ez. How does it work?
-
-Assegnazione a domanda e preassegnazione.
-
-Assegnazione a domanda: Migliore da utilizzare quando un applicativo utilizza una risorsa, ma ha anche dei momenti di pausa. Quando va in pausa, il canale comunicativo viene rilasciato.
-
-Preassegnazione: io ti assegno la risorsa fino a quando non hai finito la tua attività. Finchè non finirai la tua attività, io non toglierò il canale comunicativo.
-
-#### Modalità di accesso
-
-Modalità di accesso al canale: **centralizzate** o **distribuite**.
-
-Distribuito.
-
-Accessi multipli senza contesa.
-+ TDMA (Accesso multiplo a divisione di tempo)
-+ FDMA (Accesso multiplo a divisione di frequenza)
-
-
-
-#### Tecnica di commutazione
-
-#### Topologia di reti
-
-##### Reti a stella
-
-C'è fault tolerance? No!
-
-##### Reti ad anello
-
-Il token ring.
-
-C'è fault tolerance? Piccola.
-
-##### Reti a bus
-
-bus bus
-
-C'è fault tolerance? yes.
-
-##### Reti a maglia
-
-Più complesse da realizzare.
-
-C'è fault tolerance? yes. absolutely
-
-
