@@ -4,6 +4,22 @@ File riassunto di partenza per gli argomenti affrontati riguardanti le reti.
 
 ## Storia delle reti
 
+L'Italia è sempre stato il primo paese in Europa per infrastrutture nuove.
+
+Ferrovie e telefoni per tutta la nazione... Pure la [teleselezione](https://it.wikipedia.org/wiki/Teleselezione). Sempre il primo.
+
+Nel **1991** è nato Internet, ma è stato sdoganato per il pubblico nel 1993, ed è arrivato in Italia nel **1995**.
+
+L'Italia, avendo già l'infrastruttura telefonica, decise furbamente di sfruttarla per implementare la nuova tecnologia.
+
+Questo, però, creò un grosso problema: o si chiamava o si usava Internet. Molto fastidioso!
+
+Venne introdotta una nuova tecnologia, l'[ADSL](https://it.wikipedia.org/wiki/ADSL), che risolse il problema, per poi ritrovarsene un'altro poco dopo.
+
+Negli anni **2000**, mentre in Italia si installavano modem ADSL (che garantivano velocità sì alte, ma si era raggiunto il limite dei cavi in rame), gli altri stati europei scavavano per la *fibra ottica*.
+
+> Nota: Fastweb fu il primo gestore a installare la fibra ottica.
+
 ## Protocolli di comunicazione
 
 ### Modalità di connessione
@@ -29,8 +45,7 @@ La trasmissione dei dati, a seconda della modalità di utilizzo del canale di co
 + Half-Duplex
 + Full-Duplex
 
-Nella modalità *simplex*, il canale di comunicazione è 
-a senso unico. Il mittente invia al destinatario, ma i ruoli non si invertono mai.
+Nella modalità *simplex*, il canale di comunicazione è a senso unico. Il mittente invia al destinatario, ma i ruoli non si invertono mai.
 
 > Esempio: Radio, Televisione.
 
@@ -72,11 +87,17 @@ Nella preassegnazione, la trasmissione viene assegnata all'inizio dell'attività
 
 > Esempio: Comunicazione telefonica.
 
-### Protocolli di accesso
+### Tecniche di accesso
 
-I protocolli di accesso descrivono il modo in cui i dati accedono al canale. L'obbiettivo principale di un protocollo è quello di *smaltire velocemente il traffico di dati*.
+Le tecniche di accesso descrivono le modalità con cui i *host* utilizzano il canale per trasmettere dati. L'obbiettivo è quello di *smaltire velocemente il traffico dati*.
 
+Esiston due alternative:
++ accesso centralizzato.
++ accesso distribuito o multiplo.
 
+Nell'accesso centralizzato esiste un multiplatore che prima memorizza le richieste e dopo assegna agli host un canale in cui possono comunicare.
+
+Nell'accesso distribuito o multiplo sono gli host che fanno il lavoro del multiplatore:  
 
 ## Cavi di rame
 
