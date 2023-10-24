@@ -296,4 +296,28 @@ vv. 32-35: Tema della gioia, del piacere.
 
 ogni diletto indugio ad altro tempo = porto ogni spasso al futuro, futuro che lascerà spazio al rimpianto.
 
+#### Terza
 
+tu = apostrofe
+
+solingo augellin = evocativo
+
+a sera del viver = alla morte = perifrasi
+
+stelle = metafora. sta per destino
+
+costume: intendere in termini aristotelici. 
+
+A me = collegato a "Tu".
+
+### Guida all'analisi
+
+#### Le fonti
+
+perchè non è una opzione? 
+
+leopardi non è solo un letterato. 
+
+quello che ci vuole far notare l'autore del libro è che appunto per le fonti il Leopardi non è solo un letterato.
+
+Fare l'esempio fa la differenza tra voto e voto.

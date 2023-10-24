@@ -62,6 +62,21 @@ Nella multiplazione dinamica, la suddivisione del canale avviene in base alle ri
 
 Il canale viene suddiviso in parti logiche, che vengono temporaneamente assegnate a una coppia di host, e queste parti vengono distrutte alla fine della trasmissione.
 
+A sua volta, la multiplazione dinamica può essere divisa in due *modalità di assegnamento*:
++ assegnazione a domanda
++ preassegnazione
+
+Nella assegnazione a domanda, non c'è un vero *inizio* e *fine* attività della trasmissione, perchè il suo utilizzo prevede che la trasmissione sia ad intermittenza, ovvero che ci siano dei momenti di pausa. In questo caso, il messaggio viene suddiviso in **unità informative autonome** e, insieme agli altri, si contende la sua posizione nel canale. 
+
+Nella preassegnazione, la trasmissione viene assegnata all'inizio dell'attività e viene riservata fino alla fine dell'attività.
+
+> Esempio: Comunicazione telefonica.
+
+### Protocolli di accesso
+
+I protocolli di accesso descrivono il modo in cui i dati accedono al canale. L'obbiettivo principale di un protocollo è quello di *smaltire velocemente il traffico di dati*.
+
+
 
 ## Cavi di rame
 
