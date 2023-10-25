@@ -28,3 +28,23 @@ Hegel dice: "La realizzazione della legge avverebbe comunque" <-- La prof non sa
 Cos'è il travaglio del negativo? Ogni momento Hegeliano mette in campo la negatività della realizzazione, ovvero il *travaglio*. Ma tale aspetto deve essere visto in ottica positiva, perchè il travaglio è propedeutico e necessario per la realizzazione.
 
 Eticità; realizzazione di ogni singola moralità nello stato.
+
+### VOlontà
+
+che cos'è la volontà?
+
+volontà = entità presente in tutti gli esseri viventi.
+
+La volontà è inconscia = agisce come vuole lei.
+
+Oltre questo, tende alla vita, alla procreazione *sempre e cmunque*
+
+è una entità buona? no! è irrazionale! agisce come crede.
+
+Il suo unico obbiettivo è perpretare la vita.
+
+---
+
+Il pesismismo di schopy è molto simile a quello di leopardi
+
+TODO: pagina 24
