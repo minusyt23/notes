@@ -23,4 +23,4 @@ git commit -m "Uploaded to Github."
 
 token=$(cat "github-token")
 
-git push "https://$token@github.com/minusyt23/notes.git main
+git push "https://$token@github.com/minusyt23/notes.git" main
