@@ -32,6 +32,8 @@ All'inizio concepisce che
 
 ### Immaginazione
 
+### Idillio
+
 # I Canti
 
 Leopardi vuole un libro che raccolga in modo unitario la sua produzione lirica.
@@ -130,6 +132,8 @@ Sono presenti anche parole, come *vecchiezza* o *impetro* che suggeriscono invec
 Leopardi... inserisce molte cose antiche. <- Scrivi meglio dopo!
 
 È come se il poeta avesse voluto scavare nella memoria letteraria per usare parole che evocano una **rappresentazione antica** e doppiamente idillica.
+
+> Che diamine significa idillica? Rivedi [qua](#idillio).
 
 Come mai doppiamente idillica?
 + Per le parole poetiche di per sè
