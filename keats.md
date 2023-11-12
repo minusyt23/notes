@@ -67,6 +67,20 @@ Litcharts link: [here](https://www.litcharts.com/poetry/john-keats/ode-on-a-grec
 
 #### Mortality
 
+This ode is a complex meditation on mortality.
+
+The urn has depictions of lively scenes.
+
+###### Ashes in the urn
+
+One of the uses of urns is to hold **ashes** of the dead. We don't really know if Keats had this in mind while writing the ode, but it's an interpretation that he for sure considered.
+
+###### Urn as life and death
+
+The depictions seem alive to the speaker: noticable in stanzas 2 and 3. The speaker celebrates a kind of victory of *life over death* by seeing these frozen but lively scenes.
+
+But the pictures are still pictures, **frozen in time**. The real deal is long gone. The maiden, being depicted (and therefore not able to fade) cannot be kissed by her lover: this means that while there's **no death**, there is also **no life**.
+
 #### Art, Beauty and Truth
 
 #### History and the Imagination
