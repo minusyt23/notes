@@ -1,5 +1,6 @@
 # Gli appunti.
 
++ [Grande-guerra](grande-guerra.md)
 + [Index](index.md)
 + [Keats](keats.md)
 + [Kierkegaard-1](kierkegaard-1.md)
