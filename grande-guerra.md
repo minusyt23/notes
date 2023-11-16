@@ -241,11 +241,34 @@ E qua Cadorna fa l'errore madornale di giustificarsi per la ritirata con un *bol
 
 ### Ripresa
 
+Vedremo come i tedeschi proveranno ad andare oltre il piave, ma non ce la faranno, e come l'italia riuscì ad avere la meglio.
+
 #### Diaz
+
+Dopo Caporetto, è cambiato comando: adesso c'è Diaz.
+
+Il re dice agli alleati che Diaz è il più forte che avevano, considerati i casini di Cadorna. In realtà non è proprio così.
+
+Molto probabilmente Diaz era uno da bruciare, un generale che anche se le cose fossero andate molto male, non sarebbe successo nulla di grave. Se avesse messo il duca d'Aosta, invece, si sarebbe giocato la sua carta di contro-abdicazione.
+
+
+
+Oltre essere cambiato comando, è cambiato anche stile di comando. 
 
 ##### Trattamento umano
 
+I soldati devono mangiare meglio. La roba buona deve arrivare in trincea, non rimanere nei magazzini come si faceva prima.
+
+I soldati devono essere mandati in licenza, e devono riposare veramente.
+
 ##### Propaganda
+
+Da questo momento in poi, la propaganda si fece meglio.
+
+Nasce il **Servizio P**.
+Adesso per la propaganda si prendono scrittori, poeti, intellettuali che riescono a parlare al popolo, che sanno toccare il cuore dei soldati.
+
+Oltre le parole, ci sono anche i fumetti propagandistici.
 
 #### Verso la fine
 
