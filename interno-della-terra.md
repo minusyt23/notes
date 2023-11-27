@@ -57,7 +57,7 @@ La discontinuità di **Lehmann** lo collega al nucleo interno.
 
 #### Litosfera
 
-Guscio più superficiale, che reagisce in modo elastico: comprende la [crosta](#crosta) e la porzione più esterna del [mantello superiore](#mantello-superiore) (chiamato *lid* o *mantello litosferico*), fino alla [zona di bassa velocità](#zona-di-bassa-velocita).
+Guscio più superficiale, che reagisce in modo elastico: comprende la [crosta](#crosta) e la porzione più esterna del [mantello superiore](#mantello-superiore) (chiamato *lid* o *mantello litosferico*), fino alla [zona di bassa velocità](#zona-di-bassa-velocità).
 
 Essa è divisa in vaste placche che slittano sulla sottostante
 
