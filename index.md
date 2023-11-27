@@ -10,6 +10,7 @@
 + [Schopenhauer](schopenhauer.md)
 + [Shelley](shelley.md)
 
-+ [Deriva-espansione](deriva-espansione.md)
 + [Interno-della-terra](interno-della-terra.md)
++ [Deriva-espansione](deriva-espansione.md)
++ [Tettonica-placche](tettonica-placche.md)
 + [Leopardi-schema](leopardi-schema.md)
